@@ -12,7 +12,7 @@
       
  
 ##### streamflow_final_lstm_gru.ipynb: The Jupyter notebook containing the winning co-opatition model, an LSTM-GRU ensemble for 24-hour flood prediction on Watershed 205 from the HYSETS dataset. It achieves sMAPE scores of 6.26% (LSTM), 5.65% (GRU), and 4.97% (combined), optimized for Google Colab.
- 
+  
 ##### NRCan_flood_prediction_hackathon.txt: A detailed explanation of the NRCan co-opatition, outlining the challenges faced (e.g., sparse data, hardware limitations, regional variability), why the winning model embraced overfitting, and its strengths and limitations.
 
 ##### streamflow_prediction Folder  
