@@ -4,7 +4,7 @@
 #### Why It Exists
 ##### This repository houses the winning submission from the 2022 NRCan-sponsored co-opatition (a collaborative competition) hosted by Aggregate Intellect, focused on flood prediction using the HYSETS dataset. The winning model, a highly specialized LSTM-GRU ensemble, achieved remarkable accuracy for 24-hour flood predictions by leveraging overfitting, tailored to the competition's constraints. Additionally, the repository includes a more conventional machine learning example: a deep learning-based flood prediction model trained on the “65 Years of Weather Data Bangladesh (1948–2013)” Kaggle dataset. This model serves as an educational demonstration of applying standard deep learning techniques to flood prediction, offering a contrast to the NRCan model's unconventional approach.
 
-   
+    
 #### What's in It     
    
        
